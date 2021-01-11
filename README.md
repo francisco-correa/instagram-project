@@ -1,2 +1,3 @@
 # instagram-project
-Instagram project with bootstrap
+
+## Instagram project with dogs photos
